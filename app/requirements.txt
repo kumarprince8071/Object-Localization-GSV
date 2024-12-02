@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+ultralytics
+opencv-python
+geopy
+plotly
+python-dotenv
+requests
+pydantic
+Pillow
